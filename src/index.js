@@ -7,7 +7,7 @@ import AddSubscriber from './AddSubscriber';
 import './common/common.css'
 
 ReactDOM.render(
-  <AddSubscriber />,
+  <App />,
   document.getElementById('root')
 );
 
